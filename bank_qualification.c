@@ -6,9 +6,10 @@ DESCRIPTION:c programm to display if a customer qualify for a loan
 */
 #include<stdio.h>
 int main()
-{
+{  //variable declaration
 	int year;
 	float annualincome;
+  //prompt user to enter information
 	printf("Enter your year: \n");
 	scanf("%d", &year);
 	
@@ -23,4 +24,5 @@ int main()
 	}
 	
 	return 0;
+
 } 
