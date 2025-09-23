@@ -16,8 +16,8 @@ int main()
 	printf("\n Enter your annualincome: ");
 	scanf("%f", &annualincome);
 	
-	if (year >= 21 || annualincome >= 21000 ){
-		printf("\ncongratulation you qualify for a loan.else ");
+	if (year >= 21 && annualincome >= 21000 ){
+		printf("\ncongratulation you qualify for a loan. ");
 	}
 	else{
 		printf("\nUnfortunately,we are unable to offer you at this time");
@@ -26,3 +26,4 @@ int main()
 	return 0;
 
 } 
+
