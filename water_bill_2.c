@@ -1,6 +1,6 @@
 /*
 NAME:      OMONDI MICHAEL OTIENO
-REG NO:    PA106/G/20755/25
+REG NO:    PA106/G/28755/25
 DATE:       22/10/2025
 DESCRIPTION: C progam to calculate electricity bill based on units consumed
     */
@@ -38,3 +38,4 @@ int calculateElectricbill(int units) // function definition
 
     return bill;
 }
+
