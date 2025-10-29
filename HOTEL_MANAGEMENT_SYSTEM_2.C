@@ -2,7 +2,7 @@
 NAME:        OMONDI MICHAEL OTIENO
 REG NO:       PA106/G/28755/25
 DATE:         27/10/2025
-DESCRIPTION:  C progam to develop a simple system to monitor revenu
+DESCRIPTION:  C progam to develop a Hotel management system 
 */
 /*
 
@@ -140,4 +140,5 @@ void Multiple_Branches()
     Total_rooms = Total_Occupied + Total_vacant;
     // display total rooms//
     printf("\n\nTotal Rooms In Three Branches Is %d rooms", Total_rooms);
+
 }
