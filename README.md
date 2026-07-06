@@ -26,24 +26,34 @@ Currently, I am focused on becoming a well-rounded Full-Stack JavaScript Develop
 
 🌟 Quick Highlights
 
-<table> <tr> <td align="center" width="33%"><strong>🎓 Student developer learning by building</strong></td> <td align="center" width="33%"><strong>💻 Passionate about web technologies</strong></td> <td align="center" width="33%"><strong>🚀 Interested in Full-Stack Development</strong></td> </tr> <tr> <td align="center"><strong>🌱 Continuously improving coding skills</strong></td> <td align="center"><strong>🔭 Building projects to strengthen practical experience</strong></td> <td align="center"><strong>⚡ Enjoy solving problems through code</strong></td> </tr> <tr> <td align="center"><strong>📚 Exploring modern JavaScript ecosystems</strong></td> <td align="center"><strong>🤝 Open to collaboration and learning opportunities</strong></td> <td align="center"><strong>🎯 Goal: Become a professional software engineer</strong></td> </tr> <tr> <td align="center"><strong>🌍 Excited about open-source contributions</strong></td> <td align="center"><strong>🧠 Learning new technologies every day</strong></td> <td align="center"><strong>🔥 Turning ideas into functional applications</strong></td> </tr> </table>
+<table> <tr> <td align="center" width="33%"><strong> Student developer learning by building</strong></td> <td align="center" width="33%"><strong> Passionate about web technologies</strong></td> <td align="center" width="33%"><strong> Interested in Full-Stack Development</strong></td> </tr> <tr> <td align="center"><strong> Continuously improving coding skills</strong></td> <td align="center"><strong> Building projects to strengthen practical experience</strong></td> <td align="center"><strong> Enjoy solving problems through code</strong></td> </tr> <tr> <td align="center"><strong> Exploring modern JavaScript ecosystems</strong></td> <td align="center"><strong> Open to collaboration and learning opportunities</strong></td> <td align="center"><strong> Goal: Become a professional software engineer</strong></td> </tr> <tr> <td align="center"><strong> Excited about open-source contributions</strong></td> <td align="center"><strong> Learning new technologies every day</strong></td> <td align="center"><strong> Turning ideas into functional applications</strong></td> </tr> </table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<h3 align="center">Frontend</h3>
+
+<p align = "center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills" /> </p>
+
+
+<h3 align="center">Backend</h3>
+<p align = "center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" /> </p>
+
+
+<h3 align="center">Operating System</h3>
+<p align = "center"> <img src="https://skillicons.dev/icons?i=c" alt="Operating system" /> </p>
+
+
+
+<h3 align="center">Version Control</h3>
+<p align = "center"> <img src="https://skillicons.dev/icons?i=git,github" alt="version control" /> </p>
+
+
+
+
+
+
 
 ---
 
