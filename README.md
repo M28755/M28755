@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=M28755&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Student-brightgreen?style=flat-square" alt="status" />
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue?style=flat-square" alt="focus" />
 </p>
