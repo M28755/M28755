@@ -62,16 +62,11 @@
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/michael-otieno-b86703382" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/M28755" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jaguarhunter28755@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center"> 
+  <a href="https://github.com/M28755"> <img src="https://img.shields.io/badge/GitHub-M28755-black?style=for-the-badge&logo=github" alt="GitHub"/> </a>
+  <a href="https://linkedin.com/in/michael-otieno-b86703382"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> 
+  <a href="mailto:jaguarhunter28755@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/> </a>
+  <a href="https://twitter.com/your-username"> <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/> </a>
 </p>
 
 ---
