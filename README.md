@@ -17,12 +17,16 @@
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
+I am OMOND MICHAEL OTIENO, a passionate student developer dedicated to growing my skills through hands-on projects and continuous learning.
 
-- 🎓 I'm a **student learning the MERN stack** (MongoDB, Express.js, React, Node.js)
-- 💻 I love building projects that solve real problems
-- 🌱 Currently sharpening my skills in full-stack JavaScript development
-- ⚡ Fun fact: The best way to learn is to break things and fix them again
+I believe the best way to master software development is by building real-world applications, experimenting with new technologies, and solving practical challenges.
+
+Currently, I am focused on becoming a well-rounded Full-Stack JavaScript Developer, with a strong interest in creating modern, scalable, and user-friendly web applications.
+
+🌟 Quick Highlights
+
+<table> <tr> <td align="center" width="33%"><strong>🎓 Student developer learning by building</strong></td> <td align="center" width="33%"><strong>💻 Passionate about web technologies</strong></td> <td align="center" width="33%"><strong>🚀 Interested in Full-Stack Development</strong></td> </tr> <tr> <td align="center"><strong>🌱 Continuously improving coding skills</strong></td> <td align="center"><strong>🔭 Building projects to strengthen practical experience</strong></td> <td align="center"><strong>⚡ Enjoy solving problems through code</strong></td> </tr> <tr> <td align="center"><strong>📚 Exploring modern JavaScript ecosystems</strong></td> <td align="center"><strong>🤝 Open to collaboration and learning opportunities</strong></td> <td align="center"><strong>🎯 Goal: Become a professional software engineer</strong></td> </tr> <tr> <td align="center"><strong>🌍 Excited about open-source contributions</strong></td> <td align="center"><strong>🧠 Learning new technologies every day</strong></td> <td align="center"><strong>🔥 Turning ideas into functional applications</strong></td> </tr> </table>
 
 ---
 
