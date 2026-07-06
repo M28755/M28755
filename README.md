@@ -87,10 +87,18 @@ Looking to Collaborate On
 </ul>
 ---
 
-### 🔥 Contribution Graph
+GitHub Statistics
+<!-- <p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M28755&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M28755&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p> -->
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M28755&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p
 
 
-
+---
 ### 🤝 Connect with Me
 
 <p align="center"> 
@@ -101,6 +109,13 @@ Looking to Collaborate On
 </p>
 
 ---
+---
+GitHub Achievements
 
-<p align="center"><i>⭐️ From <a href="https://github.com/M28755">M28755</a> — thanks for stopping by!</i></p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=M28755&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" /> </p>
+---
+---
+Fun Fact
+I learn best by building projects, experimenting with ideas, and turning concepts into real applications
+---
+<p align="center"> <h3>Thanks for visiting my profile! 🚀</h3> <img src="https://komarev.com/ghpvc/?username=M28755&style=for-the-badge&color=blue" alt="Profile Views" /> </p>
