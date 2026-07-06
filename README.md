@@ -56,18 +56,35 @@ Currently, I am focused on becoming a well-rounded Full-Stack JavaScript Develop
 
 
 ---
+Currently Learning
+<ul>
+  <li>Advanced React architecture and reusable component patterns</li> 
+  <li>Professional REST API design and backend best practices</li> 
+  <li>Authentication, authorization, and secure session management</li>
+  <li>Database modeling, optimization, and data integrity</li> 
+  <li>Deployment workflows and production-ready application setup</li>
+  <li>Performance tuning for scalable web applications</li>
+  <li>Core software engineering and system design fundamentals</li>
+</ul>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M28755&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M28755&layout=compact&theme=radical" />
-</p>
+Current Projects
+<ul> 
+  <li>Developing responsive and accessible web applications with modern UI practices</li> 
+  <li>Building RESTful APIs with Node.js, Express.js, and MongoDB</li>
+  <li>Creating full-stack projects that connect frontend and backend seamlessly</li>
+  <li>Designing portfolio-ready applications to demonstrate practical skills</li>
+  <li>Strengthening problem-solving ability through consistent coding practice</li> 
+</ul>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M28755&theme=radical" alt="GitHub Streak" />
-</p>
-
+Looking to Collaborate On
+<ul> 
+  <li>Open-source projects with meaningful impact</li> 
+  <li>JavaScript and React-based web applications</li>
+  <li>Node.js and Express.js backend services</li>
+  <li>Full-stack MERN stack projects</li> 
+  <li>Student developer communities and learning-focused initiatives</li>
+</ul>
 ---
 
 ### 🔥 Contribution Graph
