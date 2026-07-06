@@ -1,9 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm OMONDI MICHAEL OTIENO 👋</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+OMONDI+MICHAEL+OTIENO;Building+things+with+code;Welcome+to+my+Github" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+in+Progress;JavaScript+%7C+React+%7C+Node.js;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=github/M28755&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github/M28755&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github/M28755&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github/M28755&theme=react-dark" />
 </p>
 
 ---
