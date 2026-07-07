@@ -89,7 +89,10 @@ Looking to Collaborate On
 
 
 Repository Tracker
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M28755&show_icons=true&theme=tokyonight&hide_border=true" alt="Repository Stats" /> </p>
+<p align="center"> <a href="https://github.com/M28755?tab=repositories"> <img src="https://img.shields.io/badge/View%20My%20Repositories-M28755-blue?style=for-the-badge&logo=github" alt="View My Repositories" /> </a> </p>
+
+Repository stats are temporarily unavailable because the external stats service returned an error.
+Please check back later or visit my repositories directly on my GitHub profile.
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=M28755&theme=tokyo-night&hide_border=true" alt="Repository Activity Graph" /> </p>
 
