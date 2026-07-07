@@ -87,7 +87,13 @@ Looking to Collaborate On
 </ul>
 ---
 
-GitHub Statistics
+
+Repository Tracker
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M28755&show_icons=true&theme=tokyonight&hide_border=true" alt="Repository Stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=M28755&theme=tokyo-night&hide_border=true" alt="Repository Activity Graph" /> </p>
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M28755&theme=tokyonight" alt="Repository Summary Stats" /> </p>
 <!-- <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M28755&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M28755&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
