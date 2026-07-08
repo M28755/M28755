@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm OMONDI MICHAEL OTIENO 👋</h1>
+<h1 align="center">Hi there, I'm OMONDI MICHAEL OTIENO </h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+OMONDI+MICHAEL+OTIENO;Building+things+with+code;Welcome+to+my+Github" alt="Typing SVG" />
 </h1>
@@ -17,20 +17,20 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 I am OMOND MICHAEL OTIENO, a passionate student developer dedicated to growing my skills through hands-on projects and continuous learning.
 
 I believe the best way to master software development is by building real-world applications, experimenting with new technologies, and solving practical challenges.
 
 Currently, I am focused on becoming a well-rounded Full-Stack JavaScript Developer, with a strong interest in creating modern, scalable, and user-friendly web applications.
 
-🌟 Quick Highlights
+ Quick Highlights
 
 <table> <tr> <td align="center" width="33%"><strong> Student developer learning by building</strong></td> <td align="center" width="33%"><strong> Passionate about web technologies</strong></td> <td align="center" width="33%"><strong> Interested in Full-Stack Development</strong></td> </tr> <tr> <td align="center"><strong> Continuously improving coding skills</strong></td> <td align="center"><strong> Building projects to strengthen practical experience</strong></td> <td align="center"><strong> Enjoy solving problems through code</strong></td> </tr> <tr> <td align="center"><strong> Exploring modern JavaScript ecosystems</strong></td> <td align="center"><strong> Open to collaboration and learning opportunities</strong></td> <td align="center"><strong> Goal: Become a professional software engineer</strong></td> </tr> <tr> <td align="center"><strong> Excited about open-source contributions</strong></td> <td align="center"><strong> Learning new technologies every day</strong></td> <td align="center"><strong> Turning ideas into functional applications</strong></td> </tr> </table>
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <h3 align="center">Frontend</h3>
 
@@ -108,7 +108,7 @@ Please check back later or visit my repositories directly on my GitHub profile.
 
 
 ---
-### 🤝 Connect with Me
+###  Connect with Me
 
 <p align="center"> 
   <a href="https://github.com/M28755"> <img src="https://img.shields.io/badge/GitHub-M28755-black?style=for-the-badge&logo=github" alt="GitHub"/> </a>
