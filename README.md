@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm OMONDI MICHAEL OTIENO </h1>
+<!-- <h1 align="center">Hi there, I'm OMONDI MICHAEL OTIENO </h1> -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+OMONDI+MICHAEL+OTIENO;Building+things+with+code;Welcome+to+my+Github" alt="Typing SVG" />
 </h1>
@@ -37,12 +37,12 @@ Currently, I am focused on becoming a well-rounded Full-Stack JavaScript Develop
 <p align = "center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills" /> </p>
 
 
-<h3 align="center">Backend</h3>
+<!-- <h3 align="center">Backend</h3>
 <p align = "center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" /> </p>
 
 
 <h3 align="center">Operating System</h3>
-<p align = "center"> <img src="https://skillicons.dev/icons?i=c" alt="Operating system" /> </p>
+<p align = "center"> <img src="https://skillicons.dev/icons?i=c" alt="Operating system" /> </p> -->
 
 
 
