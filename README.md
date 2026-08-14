@@ -37,11 +37,11 @@ Currently, I am focused on becoming a well-rounded Full-Stack JavaScript Develop
 <p align = "center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills" /> </p>
 
 
-<!-- <h3 align="center">Backend</h3>
+ <h3 align="center">Backend</h3>
 <p align = "center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" /> </p>
 
 
-<h3 align="center">Operating System</h3>
+<!-- <h3 align="center">Operating System</h3>
 <p align = "center"> <img src="https://skillicons.dev/icons?i=c" alt="Operating system" /> </p> -->
 
 
